@@ -13,3 +13,7 @@
 * Random side at inside market
 * Random size
 * Random side and price (scaled to volatility)
+
+#### Concepts and Terminology 
+When a buyer takes a trade they’re taking from the lowest asking price  on the order book
+When a seller takes a trade they’re taking at the highest bid on the buy side of the order book
